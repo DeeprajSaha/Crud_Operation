@@ -23,9 +23,3 @@ A simple **User Management System** built with **PHP, MySQL, and Bootstrap 5**, 
 - **HTML / CSS** - Markup and styling  
 
 ---
-
-## Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/php-user-crud.git
