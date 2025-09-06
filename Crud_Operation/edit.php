@@ -20,7 +20,7 @@
     </head>
     <body class="bg-dark text-white">
     <div class="container mt-5">
-            <h2>Add New User</h2>
+            <h2>Update User</h2>
             <form method="POST">
                 <div class="mb-3">
                     <label class="form-label">Name</label>
